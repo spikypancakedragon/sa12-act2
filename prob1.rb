@@ -19,4 +19,7 @@ if response.code == 200
   end
 
   puts "Name: #{name}, Description: #{desc}, URL: #{url}, Stars: #{most_stars}"
+
+elsif
+  puts "error"
 end
